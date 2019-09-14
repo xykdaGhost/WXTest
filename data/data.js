@@ -29,6 +29,16 @@ var postList = [{
   readingNum: 0,
   collectionNum: 0,
   commentNum: 0
+},
+{
+  date: "Set 22 2016",
+  title: "换个角度，再来看看微信小程序的开发与发展",
+  postImg: "/img/postImg/461.jpg",
+  avatar: "/img/avatar/STILogo.png",
+  content: "前段时间看完了雨果奖中短篇获奖小说《北京折叠》。很有意思的是，张小龙最近也要把应用折叠到微信里， 这些应用被他称为：小程序",
+  readingNum: 0,
+  collectionNum: 0,
+  commentNum: 0
 }]
 
 module.exports = {
