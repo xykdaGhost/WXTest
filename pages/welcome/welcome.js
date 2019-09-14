@@ -14,7 +14,12 @@ Page({
     });
   },
 
+  onUnload: function (event) {
+    console.log("page is unload")
+  },
 
-  
+  onHide: function (event) {
+    console.log("page is hide")
+  },
 
 })
