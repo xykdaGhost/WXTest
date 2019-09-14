@@ -1,0 +1,10 @@
+<view class="container">
+  <image class="avatar" src="/img/avatar/STILogo.png"></image>
+  <text class="motto">Hello, daGhost</text>
+
+  <view catchtap="onTapJump" class="journey-container">
+    <text class="journey">start</text>
+  
+  </view>
+
+</view>
